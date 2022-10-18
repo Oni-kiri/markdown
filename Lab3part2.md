@@ -10,5 +10,11 @@ Program	Software | manufacturer	| Software version	| Software type
 notepad|MS|21H2|Editor
 
 # 7.Mobile
+Apps|Software manufacturer|Software version|Software type
+-|-|-|-
+Android|Google|9PPR1.180610.011|OS
+Whatsapp|Meta|2.22.21.74|Instant messaging
+Signal|Signal Messenger LLC|/|Instant messaging
+
 
 
